@@ -1,3 +1,5 @@
+
+#Dummp OU Structure
 function Get-ADOUHirearchy ([string]$dn, $level = 1)
 {
     if ($level -eq 1) { $dn }

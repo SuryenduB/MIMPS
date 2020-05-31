@@ -1,0 +1,152 @@
+{
+	"id": "34495b9b-81b7-4951-bf87-d0894f7e80f0",
+	"acceptMappedClaims": null,
+	"accessTokenAcceptedVersion": null,
+	"addIns": [],
+	"allowPublicClient": true,
+	"appId": "495b731d-fe5b-4389-85d3-42fb5e1a10bb",
+	"appRoles": [],
+	"oauth2AllowUrlPathMatching": false,
+	"createdDateTime": "2019-06-10T13:08:49Z",
+	"groupMembershipClaims": null,
+	"identifierUris": [],
+	"informationalUrls": {
+		"termsOfService": null,
+		"support": null,
+		"privacy": null,
+		"marketing": null
+	},
+	"keyCredentials": [],
+	"knownClientApplications": [],
+	"logoUrl": null,
+	"logoutUrl": null,
+	"name": "Intune.Automation-NAZ",
+	"oauth2AllowIdTokenImplicitFlow": true,
+	"oauth2AllowImplicitFlow": false,
+	"oauth2Permissions": [],
+	"oauth2RequirePostResponse": false,
+	"optionalClaims": null,
+	"orgRestrictions": [],
+	"parentalControlSettings": {
+		"countriesBlockedForMinors": [],
+		"legalAgeGroupRule": "Allow"
+	},
+	"passwordCredentials": [
+		{
+			"customKeyIdentifier": null,
+			"endDate": "2299-12-31T05:00:00Z",
+			"keyId": "7ab2a287-4a6a-4917-a06b-512375b0bdc7",
+			"startDate": "2019-07-24T20:48:56.289Z",
+			"value": null,
+			"createdOn": "2019-07-24T20:48:56.5139939Z",
+			"hint": "@oL",
+			"displayName": "Password uploaded on Wed Jul 24 2019"
+		}
+	],
+	"preAuthorizedApplications": [],
+	"publisherDomain": "AnheuserBuschInBev.onmicrosoft.com",
+	"replyUrlsWithType": [
+		{
+			"url": "urn:ietf:wg:oauth:2.0:oob",
+			"type": "InstalledClient"
+		}
+	],
+	"requiredResourceAccess": [
+		{
+			"resourceAppId": "00000003-0000-0000-c000-000000000000",
+			"resourceAccess": [
+				{
+					"id": "14dad69e-099b-42c9-810b-d002981feec1",
+					"type": "Scope"
+				},
+				{
+					"id": "e4aa47b9-9a69-4109-82ed-36ec70d85ff1",
+					"type": "Scope"
+				},
+				{
+					"id": "4edf5f54-4666-44af-9de9-0144fb4b6e8c",
+					"type": "Scope"
+				},
+				{
+					"id": "7b3f05d5-f68c-4b8d-8c59-a2ecd12f24af",
+					"type": "Scope"
+				},
+				{
+					"id": "f1493658-876a-4c87-8fa7-edb559b3476a",
+					"type": "Scope"
+				},
+				{
+					"id": "0883f392-0a7a-443d-8c76-16a6d39c7b63",
+					"type": "Scope"
+				},
+				{
+					"id": "3404d2bf-2b13-457e-a330-c24615765193",
+					"type": "Scope"
+				},
+				{
+					"id": "44642bfe-8385-4adc-8fc6-fe3cb2c375c3",
+					"type": "Scope"
+				},
+				{
+					"id": "0c5e8a55-87a6-4556-93ab-adc52c4d862d",
+					"type": "Scope"
+				},
+				{
+					"id": "662ed50a-ac44-4eef-ad86-62eed9be2a29",
+					"type": "Scope"
+				},
+				{
+					"id": "06da0dbc-49e2-44d2-8312-53f166ab848a",
+					"type": "Scope"
+				},
+				{
+					"id": "4e46008b-f24c-477d-8fff-7bb4ec7aafe0",
+					"type": "Scope"
+				},
+				{
+					"id": "e1fe6dd8-ba31-4d61-89e7-88639da4683d",
+					"type": "Scope"
+				},
+				{
+					"id": "1138cb37-bd11-4084-a2b7-9f71582aeddb",
+					"type": "Role"
+				},
+				{
+					"id": "7ab1d382-f21e-4acd-a863-ba3e13f7da61",
+					"type": "Role"
+				},
+				{
+					"id": "5b567255-7703-4780-807c-7be8301ae99b",
+					"type": "Role"
+				},
+				{
+					"id": "df021288-bdef-4463-88db-98f22de89214",
+					"type": "Role"
+				}
+			]
+		},
+		{
+			"resourceAppId": "00000002-0000-0000-c000-000000000000",
+			"resourceAccess": [
+				{
+					"id": "1138cb37-bd11-4084-a2b7-9f71582aeddb",
+					"type": "Role"
+				},
+				{
+					"id": "5778995a-e1bf-45b8-affa-663a9f3f4d04",
+					"type": "Role"
+				}
+			]
+		}
+	],
+	"samlMetadataUrl": null,
+	"signInUrl": null,
+	"signInAudience": "AzureADMultipleOrgs",
+	"tags": [],
+	"tokenEncryptionKeyId": null,
+	"verifiedPublisher": {
+		"displayName": null,
+		"verifiedPublisherId": null,
+		"addedDateTime": null
+	}
+}
