@@ -1,5 +1,6 @@
 
 #Dummp OU Structure
+# Recursive function is a function that calls itself
 function Get-ADOUHirearchy ([string]$dn, $level = 1)
 {
     if ($level -eq 1) { $dn }
